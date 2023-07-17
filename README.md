@@ -38,3 +38,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ite&theme=buefy&layout=compact&langs_count=10"
   />
 </picture>
+
+
+![Snake animation](https://github.com/m4ite/m4ite/blob/output/github-contribution-grid-snake.svg)
