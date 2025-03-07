@@ -1,6 +1,7 @@
 # Hi, I'm Maite!
 :briefcase: Systems Development Apprentice - Bosch </br>
-:mortar_board: System Development Technician, 2nd Semester - SENAI
+:mortar_board: System Development Technician - SENAI
+:mortar_board: Software Engineering, 3rd Semester - UNICESUMAR
 
 ## Contacts
 <a href="mailto:maitefeld2302@gmail.com?subject=Hi, Maite! (from Github)" target="_blank"  rel="noreferrer">
